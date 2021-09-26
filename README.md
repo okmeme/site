@@ -1,2 +1,0 @@
-# site
-Frontend Site component
